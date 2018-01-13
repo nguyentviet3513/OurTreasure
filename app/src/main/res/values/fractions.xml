@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_navigation_element" type="fraction">25%</item>
+    <item name="time_navigation_text" type="fraction">30%</item>
+
+</resources>

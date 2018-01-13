@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="headerBar">#94abac</color>
+    <color name="homeBackGround">#f7f7f7</color>
+    <color name="home_white_text">#fffbfb</color>
+    <color name="navigation_background">#bb683f3f</color>
+    <color name="navigation_background_selected">#cbc2b239</color>
+    <color name="fragment_home_background">#e7000000</color>
+</resources>
