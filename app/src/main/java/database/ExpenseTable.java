@@ -3,7 +3,7 @@ package database;
 /**
  * Created by nguyentviet3513 on 1/11/2018.
  * EXPENSE_TABLE(EXPENSE_ID,EXPENSE_TYPE_ID,EXPENSE_NAME,EXPENSE_PRICE,EXPENSE_DATE)
- * USER_ID,
+ *
  */
 
 public class ExpenseTable {
